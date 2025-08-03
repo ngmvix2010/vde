@@ -1,1 +1,1 @@
-# vde
+# vde - Vie Desktop Environment
